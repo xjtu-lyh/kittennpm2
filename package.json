@@ -1,0 +1,27 @@
+{
+  "name": "kittennpm2",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xjtu-lyh/kittennpm2.git"
+  },
+  "keywords": [
+    "kitten"
+  ],
+  "author": "kitten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjtu-lyh/kittennpm2/issues"
+  },
+  "homepage": "https://github.com/xjtu-lyh/kittennpm2#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "kittennpm": "^1.0.5"
+  }
+}
